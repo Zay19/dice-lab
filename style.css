@@ -1,0 +1,30 @@
+button{
+    color: red;
+    display: block;
+    
+}
+
+.dieDiv{
+    color:black;
+border: 3px solid black;
+background-color:white;
+text-align: center;
+width: 1%;
+height: 3%;
+padding: 45px;
+float: left;
+border-radius: 1em;
+margin: 5px;
+font-weight: bold;
+
+
+}
+
+body{
+    background-color: #F75900;
+    border: 5px solid black;
+}
+
+h1{
+    text-align: center;
+}
